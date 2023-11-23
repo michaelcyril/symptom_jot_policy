@@ -1,6 +1,6 @@
 # Symptom Jot App Privacy Policy
 
-**Last Updated: [Date]**
+**Last Updated: 23/11/2023**
 
 Thank you for using Symptom Jot, a mobile application designed to help users track and manage their symptoms. Your privacy is important to us, and we are committed to protecting the personal information you share with us. This Privacy Policy outlines how Symptom Jot collects, uses, and safeguards your data.
 
@@ -21,23 +21,17 @@ Symptom Jot uses the information you input solely for the purpose of providing y
 ### 3.1 Local Storage:
 All data entered into Symptom Jot is stored locally on your device. The app does not use cloud storage or external servers to store your information.
 
-### 3.2 Encryption:
-Symptom Jot employs industry-standard encryption techniques to secure the health data you input into the app, ensuring that your information remains confidential and protected.
 
 ## 4. Offline Functionality
 
 Symptom Jot is designed to operate offline, allowing you to track your symptoms without the need for an internet connection. This offline functionality enhances your privacy by ensuring that your health data remains on your device.
 
-## 5. Children's Privacy
-
-Symptom Jot is not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children. If you believe that we may have collected information from a child, please contact us at [contact@email.com], and we will promptly address the issue.
-
-## 6. Changes to the Privacy Policy
+## 5. Changes to the Privacy Policy
 
 Any updates or changes to this Privacy Policy will be reflected in the app, and we encourage you to review it periodically. Your continued use of Symptom Jot after any modifications to this Privacy Policy will signify your acceptance of those changes.
 
-## 7. Contact Us
+## 6. Contact Us
 
-If you have any questions, concerns, or requests regarding this Privacy Policy or the Symptom Jot app, please contact us at [contact@email.com].
+If you have any questions, concerns, or requests regarding this Privacy Policy or the Symptom Jot app, please contact us at michaelcyril71@gmail.com.
 
 Thank you for choosing Symptom Jot. Your privacy and trust are important to us.
